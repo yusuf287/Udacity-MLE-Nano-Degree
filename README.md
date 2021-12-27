@@ -4,7 +4,7 @@
 
 All the impportant packages required in this project has been mentioned in **requirements.txt**.
 
-# Project Design
+### Project Design
 
 The project's domain **background** — This is a blog I have written as a final project submission for my nano degree program with Udacity in Machine Learning Engineering. 
 
