@@ -46,8 +46,10 @@ Classifier-XGBoost
 
 ## Files:
 - Jupyter notebook: arvato_capstone_project.ipynb
-- Blog: arvato_financial_solutions.pdf
+- Blog: blog_arvato_financial_solutions.pdf
 - Requirements and packages file: requirements.txt
+- proposal_document.pdf
+
 
 
 
