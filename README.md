@@ -22,8 +22,8 @@ The **datasets** and inputs — data or inputs being used for the problem:
  
 A **solution** statement — The solution will be comprised of following 3 deliverables:
 
-- **Customer Segmentation Report**: This will be a Jupyter Notebook with markdown notes and visualizations.This notebook will contain all the codes for pre-processing and feature engineering of the data.
-- **Supervised Learning Model**: This will be a supervised model object that uses demographics attributes to segment people into potential customers or non-potential customers.
-- **Blog post**
+- **Customer Segmentation Report**: This will be a Jupyter Notebook with markdown notes and visualizations.This notebook will contain all the codes for pre-processing and feature engineering of the data. - arvato_capstone_project.ipynb
+- **Supervised Learning Model**: This will be a supervised model object that uses demographics attributes to segment people into potential customers or non-potential customers. - arvato_capstone_project.ipynb
+- **Blog post** - arvato_financial_solutions.pdf
 
 
